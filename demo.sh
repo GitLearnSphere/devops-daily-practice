@@ -2,3 +2,4 @@
 
 pwd
 echo "welcome to git"
+ls
