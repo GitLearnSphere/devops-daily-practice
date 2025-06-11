@@ -6,4 +6,3 @@ ls
 date
 hostname
 uname -a
-mkdir
