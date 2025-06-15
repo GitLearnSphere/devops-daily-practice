@@ -6,3 +6,4 @@ ls
 date
 hostname
 uname -a
+host
